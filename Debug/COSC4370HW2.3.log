@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\samir\source\repos\cosc4370hw2.3\main.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\samir\source\repos\cosc4370hw2.3\main.cpp(93): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\samir\source\repos\cosc4370hw2.3\main.cpp(96): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\samir\source\repos\cosc4370hw2.3\main.cpp(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\samir\source\repos\cosc4370hw2.3\main.cpp(118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\samir\source\repos\cosc4370hw2.3\main.cpp(157): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\samir\source\repos\cosc4370hw2.3\main.cpp(179): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  COSC4370HW2.3.vcxproj -> C:\Users\Samir\source\repos\COSC4370HW2.3\Debug\COSC4370HW2.3.exe
